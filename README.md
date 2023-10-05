@@ -42,4 +42,4 @@
 
 ### Задание *13-15*
 
-#### [main фаил](D:\Рабочий стол\IT-обучение\FinalControlWorkGB\src\main\java\org\example\Main.java) 
+#### [main фаил](src/main/java/org/example/Main.java) 
